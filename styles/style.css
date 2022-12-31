@@ -1,18 +1,20 @@
 #big{
-    position: relative;
-    top: 100px;
-    margin: 5%;
+    margin-top: 9vh;
+    margin-left: 2%;
 }
 #group{
-    position: relative;
-    top: 75px;
-    margin-left: 12%;
-    right:40px;
+    margin-top: 10vh;
+    display: flex;
+    justify-content: space-between;
 }
 #search{
-    position: relative;
-    top: 3px;
-    margin-left: 15%;
+
+    margin-top: 1vh;
+    margin-left: 10%;
     color: grey;
-    padding-left: 10px;
+    padding-left: 15px;
+}
+#rightside{
+    height:90vh ;
+    background-color:rgb(181, 189, 170)
 }
